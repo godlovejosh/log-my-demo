@@ -1,5 +1,6 @@
 <https://segmentfault.com/a/1190000006723754>
 
+
 # 依赖配置
 * logback的核心，logback-core包
 * logback建议使用slf4j来管理日志，方便替换底层实现，要用slf4j，就在依赖中加入logback-classic包和slf4j-api包。
